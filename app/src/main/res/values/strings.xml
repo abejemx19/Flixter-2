@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FlixterApp</string>
+    <string name="flixterplus">FlixterPlus</string>
+    <string name="movies">Movies</string>
+</resources>
